@@ -1,4 +1,47 @@
+.body{
+  background-color: #ecf0f1;
+}
+
 .main-title{
   height: 400px;
+  text-align: center;
+  padding: 180px;
+}
+
+.billeterie{
+  margin-top: 20px;
+}
+
+.btn-primary{
+  color: #FFF;
+  background-color: #002c78;
+  border-color: #002c78;
+}
+
+.btn-primary:hover{
+  background-color: #4170bf;
+  border-color: 4170bf;
+}
+
+.video{
+  padding-top: 20px;
+}
+
+.container-formats{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.icone{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.formats-title{
+  text-align: center;
+}
+
+.formats-description{
   text-align: center;
 }
